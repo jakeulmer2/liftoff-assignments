@@ -9,9 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-*[Wireframe of Home Page](/Motivation-Home-Page.jpg)
-*[Wireframe of User Sign Up Page](/Motivation-User-Sign-Up-Page.jpg)
-*[Wireframe of User Page](/Motivation-User-Page.jpg)
+*[Wireframe of Home Page](https://github.com/jakeulmer2/liftoff-assignments/blob/master/P3-Project_Planning/Motivation-Home-Page.jpg)
+*[Wireframe of User Sign Up Page](https://github.com/jakeulmer2/liftoff-assignments/blob/master/P3-Project_Planning/Motivation-User-Sign-Up-Page.jpg)
+*[Wireframe of User Page](https://github.com/jakeulmer2/liftoff-assignments/blob/master/P3-Project_Planning/Motivation-User-Page.jpg)
 
 ### Project Tracker
 
