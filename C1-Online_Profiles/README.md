@@ -8,9 +8,14 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### GitHub
 Provide a link to your GitHub account here.
+[Jake Ulmer's GitHub](https://github.com/jakeulmer2)
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+[Jake Ulmer's LinkedIn](https://www.linkedin.com/in/jakeulmer/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
+[Jake Ulmer's Resume](https://docs.google.com/document/d/1gxVsTnJdvMk9jlijKSjy4LdNBCQuIAmfIpZ1RRCUSo8/edit)
+
+Resume in PDF form also included.
